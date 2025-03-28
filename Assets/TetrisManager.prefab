@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7009939499324154203}
   m_Layer: 0
   m_Name: TetrisManager
-  m_TagString: Tetris2
+  m_TagString: Tetris1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -206,6 +206,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 422ec247-99d2-4342-a260-f7bf5f1d9e1d
     m_ActionName: 'Tetris/SpeedUp[/Keyboard/s,/Keyboard/downArrow]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 464db777-e32e-4ad1-baa8-c3c5c01bcd58
+    m_ActionName: 'Tetris/Restart[/Keyboard/enter]'
   m_NeverAutoSwitchControlSchemes: 1
   m_DefaultControlScheme: Player1
   m_DefaultActionMap: Tetris
