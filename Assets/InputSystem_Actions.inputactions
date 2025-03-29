@@ -630,7 +630,7 @@
                 {
                     "name": "negative",
                     "id": "38677dcd-1f9c-4c9a-943d-acb09174cf03",
-                    "path": "<Keyboard>/leftArrow",
+                    "path": "<Gamepad>/buttonWest",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Player2",
@@ -641,7 +641,7 @@
                 {
                     "name": "positive",
                     "id": "85f65928-f697-40db-a8a1-d68fce10c432",
-                    "path": "<Keyboard>/rightArrow",
+                    "path": "<Gamepad>/buttonEast",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Player2",
@@ -664,6 +664,17 @@
                     "name": "",
                     "id": "eccabbcf-8e34-41b4-a6aa-a05c7a2c28f6",
                     "path": "<Gamepad>/dpad/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Player2",
+                    "action": "SpeedUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6951c4ab-5b8d-4247-94f3-912ae8b1d9bb",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Player2",

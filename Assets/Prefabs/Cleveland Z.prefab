@@ -179,6 +179,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   IsStopped: 0
   IsCurrentTetromino: 1
+  tetrisManagerTag: 
 --- !u!255 &79173536052037824
 FixedJoint2D:
   m_ObjectHideFlags: 0
@@ -394,6 +395,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   IsStopped: 0
   IsCurrentTetromino: 1
+  tetrisManagerTag: 
 --- !u!1 &4467828459340297529
 GameObject:
   m_ObjectHideFlags: 0
@@ -572,6 +574,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   IsStopped: 0
   IsCurrentTetromino: 1
+  tetrisManagerTag: 
 --- !u!255 &8496923715828785046
 FixedJoint2D:
   m_ObjectHideFlags: 0
@@ -768,6 +771,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   IsStopped: 0
   IsCurrentTetromino: 1
+  tetrisManagerTag: 
 --- !u!1 &7373121152547598040
 GameObject:
   m_ObjectHideFlags: 0
